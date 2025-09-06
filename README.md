@@ -1,0 +1,2 @@
+# kingshot
+For Kingshot game
