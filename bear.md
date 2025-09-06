@@ -1,4 +1,4 @@
-[Home](Home) / Bear hunt
+[Home](README.md) / Bear hunt
 
 # Bear hunt / Chasse à l'ours
 
