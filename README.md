@@ -1,6 +1,5 @@
 # kingshot
-For Kingshot game
 
 ## Events / Evènements
-
-[Bear Hunt / Chasse à l'ours](bear.md)
+* [Bear Hunt / Chasse à l'ours](bear.md)
+* [Fury of Césarès / Fureur des Césarès](fury.md)
