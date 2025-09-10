@@ -3,6 +3,7 @@
 ## The life of alliance / La vie de l'alliance
 * [Attacks / Attaques](attack.md)  
 * [Technological gift / Don Technologique](tech.md)
+* [Treat the troops / soigner les troupes](soigne.md)
 
 ## Events / Evènements
 * [Bear Hunt / Chasse à l'ours](bear.md)
