@@ -9,3 +9,4 @@
 * [Desert trial / Epreuve du désert](desert.md)
 * [Fishing Tournament / Tournoi de pêche](fishing.md)
 * [Fury of Césarès / Fureur des Césarès](fury.md)
+* [Viking Revenge / Vengeance Viking](viking.md)
