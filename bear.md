@@ -33,11 +33,13 @@ La participation à une chasse à l'ours est totalement gratuite. Il y a deux ma
 ### English
 * Click on the trap
 * Choose your three most powerful heroes
+* Best troop distribution (Infantry/Cavalry/Archers) is 10/30/60. If you are short on archers, you can use 20/30/50.
 * Start the rally
 
 ### Français
 * Click sur le piège
 * Choisir ses trois héros les plus puissants
+* Meilleure répartition des troupes (Infanterie/Cavaliers/Archers) est 10/30/60. Si vous manquez d'archers, vous pouvez utiliser 20/30/50.
 * Lancer le rallye
 
 ## Join a rally / Rejoindre un rallye
@@ -46,12 +48,14 @@ La participation à une chasse à l'ours est totalement gratuite. Il y a deux ma
 * Click on the rally list
 * Select a rally then click +
 * Choose as your first hero: **Chenko**, **Amane**, or **Yeonwoo**. These three heroes are the only ones who boost troops and therefore your winnings. No need to choose other heroes as only the first hero is taken into account.
+* Best troop distribution (Infantry/Cavalry/Archers) is 10/30/60. If you are short on archers, you can use 20/30/50.
 * Click to join the rally
   
 ### Français
 * Click sur la liste des rallyes
 * Choisir un rallye puis click sur +
 * Choisir comme premier héros: **Chenko**, **Amane** ou **Yeonwoo**. Ces 3 héros sont les seuls qui boostent les troupes et donc les gains. Pas besoin de choisir d'autres héros car seul le premier héros est pris en compte.
+* Meilleure répartition des troupes (Infanterie/Cavaliers/Archers) est 10/30/60. Si vous manquez d'archers, vous pouvez utiliser 20/30/50.
 * Click pour rejoindre le rallye
 
   
