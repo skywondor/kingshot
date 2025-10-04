@@ -1,4 +1,4 @@
-[Home](Home) / Treat the troops
+[Home](README.md) / Treat the troops
 
 # Treat the troops / soigner les troupes
 
