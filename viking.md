@@ -1,4 +1,4 @@
-[Home](Home) / Viking Revenge
+[Home](README.md) / Viking Revenge
 
 # Viking Revenge / Vengeance Viking
 
