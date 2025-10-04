@@ -6,7 +6,7 @@
 * [Treat the troops / soigner les troupes](soigne.md)
 
 ## Building / Batiments
-* [Enrollment office / Bureau d'enrôlement](enrolement.md)
+* [Enlistment office / Bureau d'enrôlement](enrolement.md)
 
 ## Events / Evènements
 * [Bear Hunt / Chasse à l'ours](bear.md)
