@@ -21,5 +21,5 @@
   * English: To reduce the costs of gatherings and reconnaissance, until 20%.
   * Français: Pour réduire les coûts des rassemblements et des reconnaissances, jusqu`à 20%.
 * Amane
-  * English: For bear hunt
-  * Français: Pour la chasse à l'ours
+  * English: For [bear hunt](bear.md)
+  * Français: Pour la [chasse à l'ours](bear.md)
