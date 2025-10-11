@@ -51,6 +51,61 @@ Marlin est un autre bon choix, car il est puissant aussi bien en arène qu'en ex
 Helga est placée en Tier A : elle constitue une bonne alternative à Amadeus, mais ses statistiques de base sont inférieures à celles des héros de Tier S.
 Les héros défenseurs sont en Tier B, ce qui signifie qu'ils ne sont pas les plus adaptés aux échanges d'attaque. Cependant, dans les premières générations, vous pourriez être contraint de les utiliser pour attaquer. Dianane n'est pas inclus dans la liste des niveaux, car elle ne possèdent aucune compétence de combat.
 
+## Best choice for arena / Meilleur choix pour l'arène
+
+### Generation 1 / Génération 1
+#### Basic
+| Position | Hero                    |
+|----------|-------------------------|
+| 1        | Howard, Edwin |
+| 2        | Diana, Jabel, Chenko |
+
+#### Dream
+| Position | Hero                    |
+|----------|-------------------------|
+| 1        | Howard, Helga/Amadeus |
+| 2        | Diana, Jabel, Chenko |
+
+### Generation 1 & 2 / Génération 1 & 2
+#### Basic
+| Position | Hero                    |
+|----------|-------------------------|
+| 1        | Howard, Edwin |
+| 2        | Zoe, Jabel, Chenko |
+
+#### Dream
+| Position | Hero                    |
+|----------|-------------------------|
+| 1        | Howard, Helga/Amadeus/Chenko |
+| 2        | Zoe, Jabel, Marlin |
+
+### Generation 1 to 3 / Génération 1 à 3
+#### Basic
+| Position | Hero                    |
+|----------|-------------------------|
+| 1        | Howard, Petra |
+| 2        | Zoe, Jabel, Jaeger |
+
+#### Dream
+| Position | Hero                    |
+|----------|-------------------------|
+| 1        | Howard, Helga/Amadeus |
+| 2        | Jaeger, Jabel, Marlin |
+
+### Generation 1 to 4 / Génération 1 à 4
+#### Basic
+| Position | Hero                    |
+|----------|-------------------------|
+| 1        | Howard, Petra |
+| 2        | Zoe, Rosa, Jaeger |
+
+#### Dream
+| Position | Hero                    |
+|----------|-------------------------|
+| 1        | Margot, Alcar/Amadeus |
+| 2        | Jaeger, Rosa, Marlin |
+
+
 ## Best choice for garrison (Defender) / Meilleur choix pour la garnison (Défenseur)
 | Tier | Heroes                                      |
 |------|---------------------------------------------|
