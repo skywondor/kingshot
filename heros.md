@@ -27,7 +27,7 @@
 | Alcar | Margot | Rosa |
 
 #### Epics / Epiques
-| <img src="images/amane.png" alt="amane" height="80"/> | <img src="images/chenko.png" alt="Chenko" height="80"/> | <img src="images/diana.png" alt="Diana" height="80"/> | <img src="images/Fahd.png" alt="Fahd" height="80"/> | <img src="images/gordon.png" alt="Gordon" height="80"/> | <img src="images/howard.png" alt="Howard" height="80"/> | <img src="images/quinn.png" alt="Quinn" height="80"/> | <img src="images/yeonwoo.png" alt="Yeonwoo" height="80"/> 
+| <img src="images/amane.png" alt="amane" height="80"/> | <img src="images/chenko.png" alt="Chenko" height="80"/> | <img src="images/diana.png" alt="Diana" height="80"/> | <img src="images/fahd.png" alt="Fahd" height="80"/> | <img src="images/gordon.png" alt="Gordon" height="80"/> | <img src="images/howard.png" alt="Howard" height="80"/> | <img src="images/quinn.png" alt="Quinn" height="80"/> | <img src="images/yeonwoo.png" alt="Yeonwoo" height="80"/>
 |------|------------|------|------|------------|------|------|------------|
 | Amane | Chenko | Diana | Fahd | Gordon | Howard | Quinn | Yeonwoo |
 
