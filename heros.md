@@ -5,11 +5,31 @@
 ## Generation and rating / Génération et classement
 
 ### 4 Generations & Epics / 4 Générations et Epiques
-* 1: Jabel, Amadeus, Helga, Saul
-* 2: Hilde, Zoe, Marlin
-* 3: Jaeger, Eric, Petra
-* 4: Rosa, Alcar, Margot
-* E: Amane, Yeonwoo, Fahd, Chenko, Gordon, Diana, Howard, Quinn
+
+#### Generation 1 / Génération 1
+| <img src="images/amadeus.png" alt="Amadeus" height="80"/> | <img src="images/helga.png" alt="Helga" height="80"/> | <img src="images/jabel.png" alt="Jabel" height="80"/> | <img src="images/saul.png" alt="Saul" height="80"/> |
+|------|------------|------|------------|
+| Amadeus    | Helga | Jabel | Saul |
+
+#### Generation 2 / Génération 2
+| <img src="images/hilde.png" alt="Hilde" height="80"/> | <img src="images/marlin.png" alt="Marlin" height="80"/> | <img src="images/zoe.png" alt="Zoe" height="80"/> |
+|------|------------|------|
+| Hilde | Marlin | Zoe |
+
+#### Generation 3 / Génération 3
+| <img src="images/eric.png" alt="Eric" height="80"/> | <img src="images/jaeger.png" alt="Jaeger" height="80"/> | <img src="images/petra.png" alt="Petra" height="80"/> |
+|------|------------|------|
+| Eric | Jaeger | Petra |
+
+#### Generation 4 / Génération 4
+| <img src="images/alcar.png" alt="Alcar" height="80"/> | <img src="images/margot.png" alt="Margot" height="80"/> | <img src="images/rosa.png" alt="Rosa" height="80"/> |
+|------|------------|------|
+| Alcar | Margot | Rosa |
+
+#### Epics / Epiques
+| <img src="images/amane.png" alt="amane" height="80"/> | <img src="images/chenko.png" alt="Chenko" height="80"/> | <img src="images/diana.png" alt="Diana" height="80"/> | <img src="images/Fahd.png" alt="Fahd" height="80"/> | <img src="images/gordon.png" alt="Gordon" height="80"/> | <img src="images/howard.png" alt="Howard" height="80"/> | <img src="images/quinn.png" alt="Quinn" height="80"/> | <img src="images/yeonwoo.png" alt="Yeonwoo" height="80"/> 
+|------|------------|------|------|------------|------|------|------------|
+| Amane | Chenko | Diana | Fahd | Gordon | Howard | Quinn | Yeonwoo |
 
 ### Rating / Classement
 
