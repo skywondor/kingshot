@@ -259,3 +259,24 @@ Sur quel héros je dois investir et utiliser ? Saul et Diana (encore plus) sont 
 * Chenko
 * Yeonwoo
 * Howard
+
+## Starts cost / Coût des étoiles
+### English
+Each hero's level progresses up to a 5-star level. You need fragments of that hero to evolve them.
+To reach the first star, you'll need 10 fragments, but to reach the fifth, you'll need a total of 1,065.
+
+### Français
+Le niveau de chaque héros évolue jusqu'à 5 étoile. Vous avez besoin de fragments du héros concerné pour le faire évoluer.
+Pour obtenir la première étoile vous aurez besoin de 10 fragments mais pour arriver à la cinquième, il en faudra au total: 1065.
+
+### Start => fragments / Etoile => Fragments
+* 1: 10
+* 2: 10 + 40 => 50
+* 3: 10 + 40 + 115 => 165
+* 4: 10 + 40 + 115 + 300 => 465
+* 5: 10 + 40 + 115 + 300 + 600 => 1065
+
+   
+
+
+
