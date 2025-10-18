@@ -5,6 +5,7 @@
 * [Choice of heroes / Choix des héros](heros.md)
 * [Technological gift / Don Technologique](tech.md)
 * [Treat the troops / soigner les troupes](soigne.md)
+* [VIP]/(vip.md)
 
 ## Building / Batiments
 * [Enlistment office / Bureau d'enrôlement](enrolement.md)
