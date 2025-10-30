@@ -21,3 +21,4 @@
 
 ## Articles
 * [Heroes progression / Developpement des héros](dev-heros.md)
+* [Troop ratio/ Ratio troupes](ratio.md)

@@ -78,6 +78,8 @@ Notes:
 ### Diana
 Goals / Buts
 * Reduce the leader's stamina consumption / Réduire la consommation d'endurance du chef.
+
+Development / Développement
 * 4 stars / 4 étoiles
 * Skill iron health at 5 / Compétence santé de fer à 5
 * Skill fast pace at 5 / Compétence rythme soutenu de fer à 5
@@ -86,5 +88,15 @@ Goals / Buts
 Goals / Buts
 * Boost construction speed / Booster la vitesse de construction
 * Reduce construction costs / Réduire les coût de construction
+
+Development / Développement
 * 4 stars / 4 étoiles
 * Skill resourceful at 5 / compétence débrouillard à 5
+
+### Amane
+Goals / Buts
+* Join a bear hunt rally / Rejoindre un rallye de la chasse à l'ours
+
+Development / Développement
+* 4 stars / 4 étoiles
+* Skills at 5 / compétences à 5
