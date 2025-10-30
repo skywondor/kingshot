@@ -27,7 +27,7 @@ Selon le combat à mener, le ratio troupe entre infanterie, cavalier et archer n
 | Mystical adv, Crystal cave | 60% | 20% | 20% |
 | Mystical adv, Nexus | 50% | 20% | 30% |
 | Mystical adv, Molten fort | 60% | 15% | 25% |
-| Mystical adv, Radian spire | 5% | 15% | 35% |
+| Mystical adv, Radian spire | 50% | 15% | 35% |
 
 ### Français
 | Evènement | Infanterie | Cavalier | Archer |
@@ -44,6 +44,6 @@ Selon le combat à mener, le ratio troupe entre infanterie, cavalier et archer n
 | Avent. mystique, Grotte de crystal | 60% | 20% | 20% |
 | Avent. mystique, Nexus | 50% | 20% | 30% |
 | Avent. mystique, Fort en fusion | 60% | 15% | 25% |
-| Avent. mystique, Flèche éclatante | 5% | 15% | 35% |
+| Avent. mystique, Flèche éclatante | 50% | 15% | 35% |
 
 
