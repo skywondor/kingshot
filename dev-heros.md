@@ -99,4 +99,4 @@ Goals / Buts
 
 Development / Développement
 * 4 stars / 4 étoiles
-* Skills at 5 / compétences à 5
+* Skills Triphalangism & Exorcism at 5 / compétences Triphalangie & Exorcisme à 5
