@@ -21,4 +21,5 @@
 
 ## Articles
 * [Heroes progression / Developpement des héros](dev-heros.md)
+* [Spend gems / Dépenser mes gemmes](spend.md)
 * [Troop ratio/ Ratio troupes](ratio.md)

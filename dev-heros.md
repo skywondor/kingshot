@@ -91,7 +91,7 @@ Goals / Buts
 
 Development / Développement
 * 4 stars / 4 étoiles
-* Skill resourceful at 5 / compétence débrouillard à 5
+* Skill Resourceful at 5 / compétence Débrouillard à 5
 
 ### Amane
 Goals / Buts
