@@ -17,6 +17,7 @@
 * [Fishing Tournament / Tournoi de pêche](fishing.md)
 * [Fury of Césarès / Fureur des Césarès](fury.md)
 * [Heroes roulette / Roulette des héros](roulette.md)
+* [KVK](kvk.md)
 * [Viking Revenge / Vengeance Viking](viking.md)
 
 ## Articles
