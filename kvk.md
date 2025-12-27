@@ -20,7 +20,7 @@ Fréquence : Cet événement a lieu chaque mois, plus précisément durant la q
 Principales récompenses : Apparences exclusives, Pièces du Royaume, puissants bonus pour l'ensemble du serveur et le titre prestigieux de « Haut Roi ». 
 Le KvK se déroule en quatre phases.
 
-## Phase 1: Matchmaking - 2 Days
+## Phase 1: Matchmaking - 2 Days / Mise en relation - 2 jours
 
 ### English
 This is the initial pairing stage where the stage is set for the upcoming conflict.
@@ -38,7 +38,7 @@ Il s'agit de la phase initiale d'appariement, qui prépare le terrain pour le co
 
 Conseils : Profitez de ce moment crucial pour étudier votre adversaire. Une tactique fortement recommandée consiste à créer un nouveau personnage dans ce royaume. Cette mission de collecte de renseignements vous permettra d'observer de près ses joueurs les plus puissants et ses alliances, vous offrant ainsi un avantage stratégique.
 
-## Phase 2: Prep Phase - 5 Days
+## Phase 2: Prep Phase - 5 Days / Phase de préparation - 5 jours
 
 ### English
 This phase is a 5-day point-earning marathon that directly impacts the final battle. The kingdom that scores more points during the Prep Phase wins the critical "State Bonus" for the Battle Phase. 
@@ -243,7 +243,7 @@ Utilisez uniquement :
 * Utiliser des accélérateurs (journée peu propice)
 * Utiliser de l'or véritable (journée peu propice)
 
-## Phase 3: Battle Phase - Final Day
+## Phase 3: Battle Phase - Final Day / Phase de bataille - Jour final
 
 ### English
 
@@ -300,21 +300,32 @@ Récompenses de la phase de bataille :
 * Récompenses du classement total de l'alliance
 * Récompenses du classement d'alliance
 
-## Phase 4: Field Triage Phase, Post-Battle Recovery - 2 Days
+## Phase 4: Field Triage Phase, Post-Battle Recovery - 2 Days / Phase de triage sur le terrain, rétablissement après la bataille - 2 jours
 
 ### English
 
-This phase is dedicated to recovering from the massive battles.
-
-Function: You can rescue a percentage of the troops that were incapacitated (sent to Field Triage) during the Battle Phase.
+This phase is dedicated to recovering from the massive battles. You can rescue a percentage of the troops that were incapacitated (sent to Field Triage) during the Battle Phase. 
 Rescue Rate: The base rate is 30%, but this can be increased to a maximum of 90%.
 Increasing Rescue Rate:
-Use Medical Satchel: Purchase with gems to increase your personal rescue rate.
-Request Assistance: Ask alliance members for help. They can use "Rescue Orders" to boost your rate.
-Important Note on Troop Losses (Essential KingShot KvK Tips):
-Troops lost in the Castle Battle go to the Enlistment Office (70% are recoverable).
-Troops lost when your city is attacked go to the Field Triage.
-Crucial Tip: Heal your troops constantly during the battle. If your Infirmary fills up, any further wounded troops will die permanently, a devastating outcome after a hard-fought KvK event KingShot.
+* Use Medical Satchel: Purchase with gems to increase your personal rescue rate.
+* Request Assistance: Ask alliance members for help. They can use "Rescue Orders" to boost your rate.
+
+Important Note on Troop Losses:
+* Troops lost in the Castle Battle go to the Enlistment Office (70% are recoverable).
+* Troops lost when your city is attacked go to the Field Triage.
+
+Crucial Tip: Heal your troops constantly during the battle. If your Infirmary fills up, any further wounded troops will die permanently, a devastating outcome.
 
 ### Français
+Cette phase est dédiée à la récupération après les batailles massives. Vous pouvez secourir un pourcentage des troupes mises hors de combat (envoyées à l'infirmerie) pendant la phase de bataille.
+Taux de sauvetage : Le taux de base est de 30 %, mais il peut être augmenté jusqu'à un maximum de 90 %.
 
+Augmenter le taux de sauvetage :
+* Utiliser la sacoche médicale : Achetez-la avec des gemmes pour augmenter votre taux de sauvetage personnel.
+* Demander de l'aide : Sollicitez l'aide des membres de votre alliance. Ils peuvent utiliser des « ordres de sauvetage » pour augmenter votre taux.
+
+Remarque importante concernant les pertes de troupes :
+* Les troupes perdues lors de la bataille du château sont envoyées au bureau de recrutement (70 % sont récupérables).
+* Les troupes perdues lors de l'attaque de votre ville sont envoyées à l'infirmerie.
+
+Conseil crucial : Soignez vos troupes constamment pendant la bataille. Si votre infirmerie est pleine, les troupes blessées supplémentaires mourront définitivement, une issue dévastatrice.
