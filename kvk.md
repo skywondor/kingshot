@@ -93,15 +93,23 @@ Use only:
 * Play Hero Roulette (better previous day)
 * DON'T use Pet advancement (it is for day 5)
 
-Day 4: Hero Development
+#### Day 4: Hero Development (should be Train troops)
 
-Raise Governor Gear Charm max score by 1: 70 Points
-Use 1 Hero Gear Forgehammer: 4,000 Points
-Use 1 Widget of any Hero Exclusive Gear: 8,000 Points
-Use 1 Mithril: 40,000 Points
-Train troops (per unit): Level 1 → 3; Level 2 → 4; Level 3 → 5; Level 4 → 8; Level 5 → 12; Level 6 → 18; Level 7 → 25; Level 8 → 35; Level 9 → 45; Level 10 → 60
-Gather Resources: 2 Points each
-Day 5: Power Boost
+* Raise Governor Gear Charm max score by 1: 70 Points
+* Use 1 Hero Gear Forgehammer: 4,000 Points
+* Use 1 Widget of any Hero Exclusive Gear: 8,000 Points
+* Use 1 Mithril: 40,000 Points
+* Train troops (per unit): Level 1 → 3; Level 2 → 4; Level 3 → 5; Level 4 → 8; Level 5 → 12; Level 6 → 18; Level 7 → 25; Level 8 → 35; Level 9 → 45; Level 10 → 60
+* Gather Resources: 2 Points each
+
+#### Day 4: Tips
+* Train troops
+* Raise Governor Gear Charm
+* Gather Resources
+* DON'T use Hero Gear Forgehammer
+* DON'T use Mithril
+
+#### Day 5: Power Boost
 
 Raise Pet Advancement score by 1: 50 Points
 Use 1 Advanced Taming Mark: 15,000 Points
@@ -198,6 +206,24 @@ Utilisez uniquement :
 * Charme d'équipement de gouverneur (idéal pour le jour 1)
 * Jouer à la Roulette des héros (idéal pour le jour précédent)
 * NE PAS utiliser la progression des familiers (c'est pour le jour 5)
+
+#### Jour 4 : Développement des héros (entraînement des troupes)
+
+* Augmenter le score maximum du Charme d'équipement du gouverneur de 1 : 70 points
+* Utiliser 1 Marteau-forge d'équipement de héros : 4 000 points
+* Utiliser 1 Widget d'équipement exclusif de héros : 8 000 points
+* Utiliser 1 Mithril : 40 000 points
+* Entraînement des troupes (par unité) : Niveau 1 → 3 ; Niveau 2 → 4 ; Niveau 3 → 5 ; Niveau 4 → 8 ; Niveau 5 → 12 ; Niveau 6 → 18 ; Niveau 7 → 25 ; Niveau 8 → 35 ; Niveau 9 → 45 Niveau 10 → 60
+* Collecter des ressources : 2 points chacune
+
+#### Jour 4 : Conseils
+
+* Entraîner les troupes
+* Améliorer le charme d'équipement du gouverneur
+* Collecter des ressources
+* NE PAS utiliser le marteau de forge d'équipement de héros
+* NE PAS utiliser le mithril
+
 
 ## Phase 3: Battle Phase - Final Day
 
