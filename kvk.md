@@ -53,21 +53,29 @@ Tips: Respect all players and encourage participation. Do not zero alliances tha
 * Use 1m of Speedups (Construction/Research/Training): 30 Points each
 * Finish 1 Intel Mission: 6,000 Points
 
-#### Day 1 tips
+#### Day 1: Tips
 Use only:
 * Raise Governor Gear Charm
 * Truegold
 * Speedups for construction
 * Intel missions
 
-Day 2: Basic Skills Up
+#### Day 2: Basic Skills Up
 
-Use 1 Truegold to upgrade a building: 2,000 Points
-Use 1m of Speedups (Construction/Research/Training): 30 Points each
-Play Hero Roulette 1 Time: 8,000 Points
-Use Hero Shards to ascend Heroes (Rare/Epic/Mythic): 350/1,220/3,040 Points
-Gather Resources (1,000 Bread / 1,000 Wood / 200 Stone / 50 Iron): 2 Points each
-Day 3: Pet Training
+* Use 1 Truegold to upgrade a building: 2,000 Points
+* Use 1m of Speedups (Construction/Research/Training): 30 Points each
+* Play Hero Roulette 1 Time: 8,000 Points
+* Use Hero Shards to ascend Heroes (Rare/Epic/Mythic): 350/1,220/3,040 Points
+* Gather Resources (1,000 Bread / 1,000 Wood / 200 Stone / 50 Iron): 2 Points each
+
+#### Day 2: Tips
+* Play Hero roulette
+* Speedups for research
+* Gather resources
+* Truegold (previous day is better)
+* DON'T use hero shards (it is for day 3)
+
+#### Day 3: Pet Training
 
 Pet advancement score increases by 1: 50 Points
 Use 1 Advanced Taming Mark: 15,000 Points
@@ -139,13 +147,29 @@ Conseils : Respectez tous les joueurs et encouragez la participation. Ne suppri
 * Utiliser 1 minute d'accélérateurs (construction/recherche/entraînement) : 30 points chacun
 * Terminer 1 mission de renseignement : 6 000 points
 
-#### Conseils pour le jour 1
+#### Jour 1 : Conseils
 
 Utilisez uniquement :
 * Charme d'amélioration de l'équipement du gouverneur
 * Or véritable
 * Accélérateurs de construction
 * Missions de renseignement
+
+#### Jour 2 : Amélioration des compétences de base
+
+* Utiliser 1 Or véritable pour améliorer un bâtiment : 2 000 points
+* Utiliser 1 minute d'accélérateurs (Construction/Recherche/Entraînement) : 30 points chacun
+* Jouer à la Roulette des Héros 1 fois : 8 000 points
+* Utiliser des Fragments de Héros pour faire évoluer des Héros (Rares/Épiques/Mythiques) : 350/1 220/3 040 points
+* Collecter des ressources (1 000 Pains / 1 000 Bois / 200 Pierres / 50 Fers) : 2 points chacune
+
+#### Jour 2 : Conseils
+
+* Jouer à la Roulette des Héros
+* Utiliser des accélérateurs pour la recherche
+* Collecter des resources
+* Truegold (le jour précédent est préférable)
+* NE PAS utiliser de Fragments de Héros (ils sont réservés au jour 3)
 
 ## Phase 3: Battle Phase - Final Day
 
