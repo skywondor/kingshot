@@ -247,33 +247,58 @@ Utilisez uniquement :
 
 ### English
 
-This is the explosive climax of the KvK event KingShot, where direct, kingdom-wide conflict erupts.
-
 Location: The battle takes place in the kingdom that lost the Preparation Phase.
-State Bonus: The kingdom that won the prep phase receives powerful buffs for this KingShot KvK battle:
-+15% Healing Speed
-+200% Enlistment Office Capacity
+State Bonus: The kingdom that won the prep phase receives powerful buffs for this battle:
+* +15% Healing Speed
+* +200% Enlistment Office Capacity
+
 Event Timings:
-Cross-Kingdom Borders Open: 10:00 UTC - 22:00 UTC. This is your window to teleport to the enemy kingdom.
-Cross-Kingdom Castle Battle: starts at 12:00 UTC. This is the designated time to fight for the King's Castle.
-Teleportation: Cross-Kingdom Teleporters unlock at 10:00 UTC.
-Rules of Engagement:
-The side that secures full control of the King's Castle wins the KingShot KvK.
-Gain points by occupying the King's Castle, its supporting turrets, or by eliminating enemy troops.
-You can attack opposing cities, but you'll only earn points if their Town Center is within ±3 levels of your own.
-If the King's Castle and its turrets are held by alliances from the same kingdom, the turrets will not attack the castle.
-Turrets provide a significant Lethality bonus to allied squads inside the King's Castle. This is a key part of the KingShot guide KvK strategy.
+* Cross-Kingdom Borders Open: 10:00 UTC - 22:00 UTC. This is your window to teleport to the enemy kingdom.
+* Cross-Kingdom Castle Battle: starts at 12:00 UTC. This is the designated time to fight for the King's Castle. The Cross-Kingdom Teleporters unlock at 10:00 UTC.
+
+Rules:
+* The side that secures full control of the King's Castle wins the KvK.
+* Gain points by occupying the King's Castle, its supporting turrets, or by eliminating enemy troops.
+* You can attack opposing cities, but you'll only earn points if their Town Center is within ±3 levels of your own.
+* If the King's Castle and its turrets are held by alliances from the same kingdom, the turrets will not attack the castle. 
+* Turrets provide a significant Lethality bonus to allied squads inside the King's Castle. This is a key part of the KvK strategy.
+
 Battle Phase Rewards:
 
-Winner & Runner-Up Rewards: The winning kingdom gets substantially more rewards (e.g., 50 Kingdom Coins vs. 15).
+* Winner & Runner-Up Rewards: The winning kingdom gets substantially more rewards (e.g., 50 Kingdom Coins vs. 15).
+* winner runner up rewards
+  * Personal Ranking Rewards: Based on battle points. The top 50 players receive a luxurious City Skin. Other rewards include Hero Shards and Truegold.
+  * Alliance Ranking Rewards: Based on the alliance's total points in this intense KvK KingShot finale.
+* alliance total ranking rewards
+* alliance ranking rewards
 
-winner runner up rewards
-Personal Ranking Rewards: Based on battle points. The top 50 players receive a luxurious City Skin. Other rewards include Hero Shards and Truegold.
+### Français
 
-Alliance Ranking Rewards: Based on the alliance's total points in this intense KvK KingShot finale.
+Lieu : La bataille se déroule dans le royaume ayant perdu la phase de préparation.
 
-alliance total ranking rewards
-alliance ranking rewards
+Bonus d'État : Le royaume vainqueur de la phase de préparation bénéficie de puissants bonus pour cette bataille :
+* +15 % de vitesse de soin
+* +200 % de capacité du bureau de recrutement
+
+Horaires de l'événement :
+* Ouverture des frontières inter-royaumes : de 10h00 UTC à 22h00 UTC. Profitez de cette période pour vous téléporter dans le royaume ennemi.
+* Bataille inter-royaumes pour le château : débute à 12h00 UTC. C'est le moment de combattre pour le château du roi. Les téléporteurs inter-royaumes sont disponibles à partir de 10h00 UTC.
+
+Règles :
+
+* Le camp qui contrôle entièrement le château du roi remporte la bataille.
+* Marquez des points en occupant le château du roi, ses tourelles de soutien ou en éliminant les troupes ennemies. * Vous pouvez attaquer les villes adverses, mais vous ne gagnerez des points que si leur centre-ville se trouve à ±3 niveaux du vôtre.
+* Si le Château du Roi et ses tourelles sont contrôlés par des alliances du même royaume, les tourelles n'attaqueront pas le château.
+* Les tourelles confèrent un bonus de létalité important aux escouades alliées à l'intérieur du Château du Roi. Il s'agit d'un élément clé de la stratégie KvK.
+
+Récompenses de la phase de bataille :
+
+* Récompenses du vainqueur et du finaliste : Le royaume vainqueur reçoit des récompenses nettement supérieures (par exemple, 50 pièces du royaume contre 15).
+* Récompenses du vainqueur et du finaliste
+  * Récompenses du classement personnel : Basées sur les points de bataille. Les 50 meilleurs joueurs reçoivent un skin de ville luxueux. D'autres récompenses incluent des fragments de héros et de l'or véritable.
+  * Récompenses du classement d'alliance : Basées sur le total des points de l'alliance lors de cette finale intense de KvK KingShot.
+* Récompenses du classement total de l'alliance
+* Récompenses du classement d'alliance
 
 ## Phase 4: Field Triage Phase, Post-Battle Recovery - 2 Days
 
