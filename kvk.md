@@ -44,7 +44,14 @@ Conseils : Profitez de ce moment crucial pour étudier votre adversaire. Une ta
 This phase is a 5-day point-earning marathon that directly impacts the final battle. The kingdom that scores more points during the Prep Phase wins the critical "State Bonus" for the Battle Phase. 
 Key Principle: Success in the Prep Phase requires kingdom-wide participation. A single player or alliance cannot win it alone.
 
-Tips: Respect all players and encourage participation. Do not zero alliances that have high-spending players ("spenders"). If these key players quit the game out of frustration, it will be a devastating loss for the entire server in all future KvK events. Each day, you can win rewards.
+Tips: Respect all players and encourage participation. Do not zero alliances that have high-spending players ("spenders"). If these key players quit the game out of frustration, it will be a devastating loss for the entire server in all future KvK events. Each day, you can win rewards:
+
+* Milestone Rewards: Personal and alliance point milestones unlock chests with Kingdom Coins, resources, and speedups.
+* Ranking Rewards:
+  * Individual Ranking: At the end of the 5 days, the top 200 players receive shards for the season's specific Mythic Hero (e.g., Hilde).
+  * Alliance Ranking: Alliances are ranked daily, providing rewards to members.
+  * Kingdom Rewards: The winning kingdom of this crucial KvK KingShot phase receives double the rewards of the losing kingdom.
+
 
 #### Day 1: City Construction
 
@@ -111,51 +118,38 @@ Use only:
 
 #### Day 5: Power Boost
 
-Raise Pet Advancement score by 1: 50 Points
-Use 1 Advanced Taming Mark: 15,000 Points
-Use 1 Common Taming Mark: 1,150 Points
-Use 1 Mithril: 40,000 Points
-Raise Governor Gear max score by 1: 36 Points
-Use 1 Hero Gear Forgehammer: 4,000 Points
-Use 1 Widget for Hero Exclusive Gear: 8,000 Points
-Use 1 Truegold to upgrade a building: 2,000 Points
-Use 1m of Speedups for Construction/Research/Training: 30 Points
-Finish 1 Intel Mission: 6,000 Points
-Gather 1,000 Bread / 1,000 Wood / 200 Stone / 50 Iron in the Wilderness: 2 Points each
-Governor Gear Rarity → Level Up Score:
+* Raise Pet Advancement score by 1: 50 Points
+* Use 1 Advanced Taming Mark: 15,000 Points
+* Use 1 Common Taming Mark: 1,150 Points
+* Use 1 Mithril: 40,000 Points
+* Raise Governor Gear max score by 1: 36 Points
+* Use 1 Hero Gear Forgehammer: 4,000 Points
+* Use 1 Widget for Hero Exclusive Gear: 8,000 Points
+* Use 1 Truegold to upgrade a building: 2,000 Points
+* Use 1m of Speedups for Construction/Research/Training: 30 Points
+* Finish 1 Intel Mission: 6,000 Points
+* Gather 1,000 Bread / 1,000 Wood / 200 Stone / 50 Iron in the Wilderness: 2 Points each
 
-Rarity	Level Up Score
-Uncommon	1,125
-Uncommon (1-Star)	1,875
-Rare	3,000
-Rare (1-Star)	4,500
-Rare (2-Star)	5,100
-Rare (3-Star)	5,400
-Epic	3,230
-Epic (1-Star)	3,230
-Epic (2-Star)	3,225
-Epic (3-Star)	3,225
-Epic T1	3,440
-Epic T1 (1-Star)	3,440
-Epic T1 (2-Star)	4,085
-Epic T1 (3-Star)	4,085
-Mythic	6,250
-Mythic (1-Star)	6,250
-Mythic (2-Star)	6,250
-Mythic (3-Star)	6,250
-Preparation Phase Rewards:
-
-Milestone Rewards: Personal and alliance point milestones unlock chests with Kingdom Coins, resources, and speedups.
-Ranking Rewards:
-Individual Ranking: At the end of the 5 days, the top 200 players receive shards for the season's specific Mythic Hero (e.g., Hilde).
-Alliance Ranking: Alliances are ranked daily, providing rewards to members.
-Kingdom Rewards: The winning kingdom of this crucial KvK KingShot phase receives double the rewards of the losing kingdom.
+#### Day 5: Tips
+* Use 1 Hero Gear Forgehammer
+* Use 1 Widget for Hero Exclusive Gear
+* Raise Pet Advancement
+* Use Advanced Taming Mark
+* Use Common Taming Mark
+* Use Speedups (not the best day)
+* Use Truegold (not the best day)
 
 ### Français
 Cette phase est un marathon de 5 jours pour gagner des points, qui influence directement la bataille finale. Le royaume qui obtient le plus de points durant la phase de préparation remporte le bonus crucial d'État pour la phase de bataille.
 Principe clé : La réussite de la phase de préparation repose sur la participation de tout le royaume. Aucun joueur ni aucune alliance ne peut gagner seul.
 
-Conseils : Respectez tous les joueurs et encouragez la participation. Ne supprimez pas les alliances qui comptent des joueurs dépensiers. Si ces joueurs clés quittent le jeu par frustration, cela représentera une perte considérable pour l'ensemble du serveur lors des futurs événements KvK. Vous pouvez gagner des récompenses chaque jour.
+Conseils : Respectez tous les joueurs et encouragez la participation. Ne supprimez pas les alliances qui comptent des joueurs dépensiers. Si ces joueurs clés quittent le jeu par frustration, cela représentera une perte considérable pour l'ensemble du serveur lors des futurs événements KvK. Vous pouvez gagner des récompenses chaque jour:
+
+* Récompenses d'étape : Les paliers de points personnels et d'alliance débloquent des coffres contenant des pièces du royaume, des ressources et des accélérateurs.
+* Récompenses de classement :
+  * Classement individuel : À la fin des 5 jours, les 200 meilleurs joueurs reçoivent des fragments du héros mythique spécifique à la saison (par exemple, Hilde).
+  * Classement d'alliance : Les alliances sont classées quotidiennement, ce qui permet à leurs membres de recevoir des récompenses.
+  * Récompenses de royaume : Le royaume vainqueur de cette phase cruciale de KingShot en KvK reçoit le double des récompenses du royaume perdant.
 
 #### Jour 1 : Construction de la ville
 
@@ -224,6 +218,30 @@ Utilisez uniquement :
 * NE PAS utiliser le marteau de forge d'équipement de héros
 * NE PAS utiliser le mithril
 
+#### Jour 5 : Bonus de puissance
+
+* Augmenter le score de progression de l'animal de compagnie de 1 : 50 points
+* Utiliser 1 marque de dressage avancée : 15 000 points
+* Utiliser 1 marque de dressage commune : 1 150 points
+* Utiliser 1 mithril : 40 000 points
+* Augmenter le score maximum de l'équipement de gouverneur de 1 : 36 points
+* Utiliser 1 marteau de forge d'équipement de héros : 4 000 points
+* Utiliser 1 widget pour l'équipement exclusif de héros : 8 000 points
+* Utiliser 1 or véritable pour améliorer un bâtiment : 2 000 points
+* Utiliser 1 million d'accélérateurs pour la construction/la recherche/l'entraînement : 30 points
+* Terminer 1 mission de renseignement : 6 000 points
+* Récolter 1 000 pains / 1 000 bois / 200 pierres / 50 fers dans la nature : 2 points chacun
+
+#### Jour 5 : Conseils
+
+* Utiliser 1 Marteau de forge pour équipement de héros
+* Utiliser 1 widget pour l'équipement exclusif de héros
+* Utiliser 1 mithril
+* Faire progresser son familier
+* Utiliser une marque de dressage avancée
+* Utiliser une marque de dressage commune
+* Utiliser des accélérateurs (journée peu propice)
+* Utiliser de l'or véritable (journée peu propice)
 
 ## Phase 3: Battle Phase - Final Day
 
