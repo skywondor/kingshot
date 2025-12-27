@@ -8,7 +8,7 @@
 The "Kingdom of Power" better known as Kingdom versus Kingdom (KvK), is the most important monthly event where two kingdoms are matched to compete for supremacy. 
 The ultimate goals are to earn incredible rewards and for the victorious kingdom's top alliance to appoint a High King.
 
-Frequency: The KvK event KingShot occurs monthly, specifically during the fourth week of the month. 
+Frequency: This event occurs monthly, specifically during the fourth week of the month. 
 Main Rewards: Exclusive skins, Kingdom Coins, powerful server-wide buffs, and the prestigious title of "High King."
 The KVK is broken down four phases.
 
@@ -16,7 +16,7 @@ The KVK is broken down four phases.
 Le « Royaume du Pouvoir », plus connu sous le nom de Royaume contre Royaume (KvK), est l'événement mensuel le plus important où deux royaumes s'affrontent pour la suprématie. 
 L'objectif ultime est de remporter des récompenses exceptionnelles et de permettre à la meilleure alliance du royaume victorieux de nommer un Haut Roi.
 
-Fréquence : L'événement KvK « KingShot » a lieu chaque mois, plus précisément durant la quatrième semaine. 
+Fréquence : Cet événement a lieu chaque mois, plus précisément durant la quatrième semaine. 
 Principales récompenses : Apparences exclusives, Pièces du Royaume, puissants bonus pour l'ensemble du serveur et le titre prestigieux de « Haut Roi ». 
 Le KvK se déroule en quatre phases.
 
@@ -75,15 +75,24 @@ Use only:
 * Truegold (previous day is better)
 * DON'T use hero shards (it is for day 3)
 
-#### Day 3: Pet Training
+#### Day 3: Pet Training (Bad name, should be Hero shards)
 
-Pet advancement score increases by 1: 50 Points
-Use 1 Advanced Taming Mark: 15,000 Points
-Use 1 Common Taming Mark: 1,150 Points
-Raise Governor Gear Charm max score by 1: 70 Points
-Play Hero Roulette 1 Time: 8,000 Points
-Use Hero Shards (Rare/Epic/Mythic): 350/1,220/3,040 Points
-Finish 1 Intel Mission: 6,000 Points
+* Pet advancement score increases by 1: 50 Points
+* Use 1 Advanced Taming Mark: 15,000 Points
+* Use 1 Common Taming Mark: 1,150 Points
+* Raise Governor Gear Charm max score by 1: 70 Points
+* Play Hero Roulette 1 Time: 8,000 Points
+* Use Hero Shards (Rare/Epic/Mythic): 350/1,220/3,040 Points
+* Finish 1 Intel Mission: 6,000 Points
+
+#### Day 3: Tips
+* Use Hero shards
+* Terror / Beast
+* Intel missions
+* Governor gear charm (better for day 1)
+* Play Hero Roulette (better previous day)
+* DON'T use Pet advancement (it is for day 5)
+
 Day 4: Hero Development
 
 Raise Governor Gear Charm max score by 1: 70 Points
@@ -170,6 +179,25 @@ Utilisez uniquement :
 * Collecter des resources
 * Truegold (le jour précédent est préférable)
 * NE PAS utiliser de Fragments de Héros (ils sont réservés au jour 3)
+
+#### Jour 3 : Entraînement des animaux (Nom incorrect, devrait être Fragments de héros)
+
+* Augmentation du score de progression d'un animal de 1 : 50 points
+* Utilisation d'une marque de dressage avancée : 15 000 points
+* Utilisation d'une marque de dressage commune : 1 150 points
+* Augmentation du score maximum du charme d'équipement de gouverneur de 1 : 70 points
+* 1 partie de la Roulette des héros : 8 000 points
+* Utilisation de fragments de héros (rares/épiques/mythiques) : 350/1 220/3 040 points
+* 1 mission de renseignement terminée : 6 000 points
+
+#### Jour 3 : Conseils
+
+* Utiliser des fragments de héros
+* Terreur/Bête
+* Missions de renseignement
+* Charme d'équipement de gouverneur (idéal pour le jour 1)
+* Jouer à la Roulette des héros (idéal pour le jour précédent)
+* NE PAS utiliser la progression des familiers (c'est pour le jour 5)
 
 ## Phase 3: Battle Phase - Final Day
 
