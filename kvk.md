@@ -39,36 +39,27 @@ Il s'agit de la phase initiale d'appariement, qui prépare le terrain pour le co
 Conseils : Profitez de ce moment crucial pour étudier votre adversaire. Une tactique fortement recommandée consiste à créer un nouveau personnage dans ce royaume. Cette mission de collecte de renseignements vous permettra d'observer de près ses joueurs les plus puissants et ses alliances, vous offrant ainsi un avantage stratégique.
 
 ## Phase 2: Prep Phase - 5 Days
-This phase is a 5-day point-earning marathon that directly impacts the final battle. The kingdom that scores more points during the KingShot KvK Prep Phase wins the critical "State Bonus" for the Battle Phase.
 
-Key Principle: Success in the KingShot KvK Prep Phase requires kingdom-wide participation. A single player or alliance cannot win it alone.
+### English
+This phase is a 5-day point-earning marathon that directly impacts the final battle. The kingdom that scores more points during the Prep Phase wins the critical "State Bonus" for the Battle Phase. 
+Key Principle: Success in the Prep Phase requires kingdom-wide participation. A single player or alliance cannot win it alone.
 
-Important Social Advice for KvK KingShot:
+Tips: Respect all players and encourage participation. Do not zero alliances that have high-spending players ("spenders"). If these key players quit the game out of frustration, it will be a devastating loss for the entire server in all future KvK events. Each day, you can win rewards.
 
-Respect all players and encourage participation.
-Do not zero alliances that have high-spending players ("spenders"). If these key players quit the game out of frustration, it will be a devastating loss for the entire server in all future KingShot KvK events.
-Daily Point-Earning Tasks (First 5 Days):
+#### Day 1: City Construction
 
-Day 1: City Construction
+* Raise Governor Gear Charm max score by 1: 70 Points
+* Use 1 Truegold to upgrade a building: 2,000 Points
+* Use 1m of Speedups (Construction/Research/Training): 30 Points each
+* Finish 1 Intel Mission: 6,000 Points
 
-Raise Governor Gear Charm max score by 1: 70 Points
-Use 1 Truegold to upgrade a building: 2,000 Points
-Use 1m of Speedups (Construction/Research/Training): 30 Points each
-Finish 1 Intel Mission: 6,000 Points
-Charm Level → Level Up Score (reference from in‑game task scoring):
+#### Day 1 tips
+Use only:
+* Raise Governor Gear Charm
+* Truegold
+* Speedups for construction
+* Intel missions
 
-Governor Charm Level	Level Up Score
-1	625
-2	1,250
-3	3,125
-4	8,750
-5	11,250
-6	12,500
-7	12,500
-8	13,000
-9	14,000
-10	15,000
-11	16,000
 Day 2: Basic Skills Up
 
 Use 1 Truegold to upgrade a building: 2,000 Points
@@ -134,6 +125,27 @@ Ranking Rewards:
 Individual Ranking: At the end of the 5 days, the top 200 players receive shards for the season's specific Mythic Hero (e.g., Hilde).
 Alliance Ranking: Alliances are ranked daily, providing rewards to members.
 Kingdom Rewards: The winning kingdom of this crucial KvK KingShot phase receives double the rewards of the losing kingdom.
+
+### Français
+Cette phase est un marathon de 5 jours pour gagner des points, qui influence directement la bataille finale. Le royaume qui obtient le plus de points durant la phase de préparation remporte le bonus crucial d'État pour la phase de bataille.
+Principe clé : La réussite de la phase de préparation repose sur la participation de tout le royaume. Aucun joueur ni aucune alliance ne peut gagner seul.
+
+Conseils : Respectez tous les joueurs et encouragez la participation. Ne supprimez pas les alliances qui comptent des joueurs dépensiers. Si ces joueurs clés quittent le jeu par frustration, cela représentera une perte considérable pour l'ensemble du serveur lors des futurs événements KvK. Vous pouvez gagner des récompenses chaque jour.
+
+#### Jour 1 : Construction de la ville
+
+* Augmenter le score maximum de Charme de l'équipement du gouverneur de 1 : 70 points
+* Utiliser 1 Or véritable pour améliorer un bâtiment : 2 000 points
+* Utiliser 1 minute d'accélérateurs (construction/recherche/entraînement) : 30 points chacun
+* Terminer 1 mission de renseignement : 6 000 points
+
+#### Conseils pour le jour 1
+
+Utilisez uniquement :
+* Charme d'amélioration de l'équipement du gouverneur
+* Or véritable
+* Accélérateurs de construction
+* Missions de renseignement
 
 ## Phase 3: Battle Phase - Final Day
 
