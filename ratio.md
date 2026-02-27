@@ -21,7 +21,7 @@ Selon le combat à mener, le ratio troupe entre infanterie, cavalier et archer n
 | Swordland | 50% | 20% | 30% |
 | Battles | 50% | 20% | 30% |
 | Rallies (terrors, desert trial) | 50% | 20% | 30% |
-| Defense garrison | 60% | 20% | 20% |
+| Defense garrison | 70% | 30% | 0% |
 | Mystical adv, Coliseum | 50% | 10% | 40% |
 | Mystical adv, Forest of life | 50% | 15% | 35% |
 | Mystical adv, Crystal cave | 60% | 20% | 20% |
@@ -38,7 +38,7 @@ Selon le combat à mener, le ratio troupe entre infanterie, cavalier et archer n
 | Glaive | 50% | 20% | 30% |
 | Battailles | 50% | 20% | 30% |
 | Rallyes (terreurs, épreuve désert) | 50% | 20% | 30% |
-| Defense garnison | 60% | 20% | 20% |
+| Defense garnison | 70% | 30% | 0% |
 | Avent. mystique, Colisée | 50% | 10% | 40% |
 | Avent. mystique, Foret de la vie | 50% | 15% | 35% |
 | Avent. mystique, Grotte de crystal | 60% | 20% | 20% |
