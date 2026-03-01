@@ -155,7 +155,7 @@ Les héros d'attaque sont au niveau B pour la défense. Ils ne sont pas le meill
 ## Best choice to join / Le meilleur choix pour rejoindre
 | Tier | Heroes                                              |
 |------|-----------------------------------------------------|
-| S    | Saul, Chenko, Amane, Yeonwoo, Amadeus, Margot, Hilde|
+| S    | Chenko, Amane, Yeonwoo, Amadeus, Margot, Hilde|
 | A    | Gordon, Quinn, Howard, Eric, Fahd                   |
 | B    | Zoe, Marlin, Jaeger, Jabel, Helga, Petra, Rosa, Alcar|
 
@@ -251,10 +251,11 @@ Sur quel héros je dois investir et utiliser ? Saul et Diana (encore plus) sont 
 ### Generation 1 to 4 / Génération 1 à 4
 * Amadeus
 * Petra
-* Alcar
+* Rosa
 * Margot
 * Marlin
 * Zoe
+* Alcar
 * Jabel
 * Chenko
 * Yeonwoo
