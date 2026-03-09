@@ -80,6 +80,7 @@ Hero Captains: The Key to Rally Damage Bonuses
 Each rally can receive up to four additional skills from players who join. The most important hero to send is:
 * Chenko, She provides a +25% damage boost if their first Expedition skill is Level 5. However, to activate the bonus, she must be the first hero in formation and among the first four to join the rally.
 * Amadeus, If your Helga has better stats (which is often the case early on since she unlocks first and is included in the first VIP packs), then it’s better to use Helga to launch the rally. In that case, you can send Amadeus as a rally joiner instead — his first skill is similar to Chenko’s.
+* Margot, she increases the attack of troops by 25% if her first Expedition skill is level 5 (in other words 4 stars).
 * Yeonwoo, Just like Chenko and Amadeus, Yeonwoo also gives a 25% Lethality boost when she reaches star level 4.
 * Amane, She boosts Attack instead of Lethality, but since Attack and Lethality multiply together in the damage formula, she still makes a good rally joiner but just not as strong as Chenko, Amadeus, or Yeonwoo.
 
@@ -129,6 +130,7 @@ Capitaines Héros : La Clé des Bonus de Dégâts de Ralliement
 Chaque ralliement peut bénéficier jusqu'à quatre compétences supplémentaires des joueurs qui le rejoignent. Le héros le plus important à envoyer est :
 * Chenko, Elle confère un bonus de dégâts de +25 % si sa première compétence d'Expédition est de niveau 5. Cependant, pour activer ce bonus, elle doit être la première héroïne de la formation et parmi les quatre premières à rejoindre le ralliement.
 * Amadeus, Si votre Helga a de meilleures statistiques (ce qui est souvent le cas en début de partie, car elle se débloque en premier et est incluse dans les premiers packs VIP), il est préférable d'utiliser Helga pour lancer le ralliement. Dans ce cas, vous pouvez envoyer Amadeus comme rallieur : sa première compétence est similaire à celle de Chenko.
+* Margot, elle augmente l'attaque des troupes de 25% si sa première compétence d'Expédition est de niveau 5 (autrement dit 4 étoiles).
 * Yeonwoo, Tout comme Chenko et Amadeus, Yeonwoo augmente sa létalité de 25 % lorsqu'elle atteint le niveau d'étoile 4.
 * Amane, Elle augmente son attaque au lieu de sa létalité, mais comme l'attaque et la létalité se multiplient dans la formule des dégâts, elle reste une bonne alliée de ralliement, mais moins puissante que Chenko, Amadeus ou Yeonwoo.
 
