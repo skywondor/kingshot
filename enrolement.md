@@ -1,4 +1,4 @@
-/[Home)(README.md)/Enlistment office / Bureau d'enrôlement
+/[Home)(README.md) / Enlistment office / Bureau d'enrôlement
 
 # Enlistment office / Bureau d'enrôlement
 
