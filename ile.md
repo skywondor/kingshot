@@ -31,3 +31,23 @@
   * Réservoir : 10
   * Fontaine: 10
 * Au début du développement de l'île, vous recevez 3 assistances par jour. Utilisez-les pour donner et recevoir de l'essence de vie supplémentaire. De plus, vous ne pouvez recevoir que 3 assistances par réinitialisation quotidienne. En planifiant bien, cela représente 6 bonus d'essence supplémentaires par jour.
+
+## Which building in first ? / Quel bâtiment en premier ?
+
+### English
+It's probably best to focus on maxing out:
+1. Halo of Valor for Construction Speed +4% (only 39k water essence to max since you get 2 for free)
+2. Oasis Springs    for Research Speed +4% (45k water essence)
+3. Picnic Mat for Training Speed +5% (45k water essence)
+4. Construction Hut for Construction Speed +6% (75k water essence)
+
+We'll deal with combat stat buildings later. For these buildings, we try to follow the same priority order as for hero equipment. If you want to prioritize the bear trap, it's archers first, then infantry, and finally cavalry. If it's battles, then we do infantry first, followed by archers.
+
+### Français
+Il est probablement préférable de se concentrer sur l'amélioration maximale des éléments suivants :
+1. Halo de Vaillance : +4 % de vitesse de construction (seulement 39 000 essences d'eau pour le maximiser, car vous en obtenez 2 gratuitement)
+2. Sources de l'Oasis : +4 % de vitesse de recherche (45 000 essences d'eau)
+3. Tapis de pique-nique : +5 % de vitesse d'entraînement (45 000 essences d'eau)
+4. Cabane de construction : +6 % de vitesse de construction (75 000 essences d'eau)
+
+On s'occupera des bâtiments de statistiques de combat plus tard. Pour ces bâtiments, on essai de suivre le même ordre de priorité que pour l'équipement des héros. Si vous voulez priviligier le piège à ours, c'est les archers, puis l'infanterie et enfin les cavaliers. Si c'est les batailles alors on fait l'infanterie en premier suivi des archers.
