@@ -9,7 +9,7 @@
 
 ## Building / Batiments
 * [Enlistment office / Bureau d'enrôlement](enrolement.md)
-* [Research academy / Académie de recherche](academie.md)
+* [Isle / Ile](ile.md)
 
 ## Events / Evènements
 * [Bear Hunt / Chasse à l'ours](bear.md)
