@@ -29,3 +29,27 @@ Since this game uses the leader's endurance, it is highly recommended to choose 
 
 ### Français
 Comme ce jeu utilise l'endurance du chef, il est fortement recommandé de choisir **Diana** parmi les héros. Elle permet de réduire la consommation d'endurance du chef.
+
+## Boss fight / Combat du boss
+
+### English
+There can be up to 5 boss levels to fight collectively. The previous level must be cleared before you can proceed to fight at the next level. To defeat the boss, players must launch a series of attacks to reduce its health percentage to 0%. When the boss dies, every attacker receives a reward. This reward is random and does not depend on the amount of damage each player inflicted upon the boss. A player who launched an attack using a single soldier without a hero may receive a more substantial reward than a player who inflicted 30% damage to the boss. Each battle against a boss lasts 30 minutes; it can be triggered manually or scheduled.
+
+### Français
+Il peut y avoir jusqu'à 5 niveaux de boss à combattre ensemble. Le niveau précédent doit être franchi pour pouvoir combattre au niveau suppérieur. Pour vaincre le boss, il faut envoyer une série d'attaque qui vont amener son pourcentage à 0%. Quand le boss meurt chaque attaquant reçoit une récompense. Cette récompense est aléatoire, elle ne dépend pas des dégats que chaque joueur a infligé au boss. Un joueur qui a lancé une attaque avec un seul soldat sans héros peut obtenir une récompense plus important qu'un joueur qui a infligé 30% de perte au boss. Chaque bataille contre un boss dure 30 minutes, elle peut être déclenchée manuellement ou programmée.
+
+## Strategy boss fight / Stratégie combat du boss
+
+### English
+The goal is to enable as many alliance members as possible to claim the reward:
+* It is recommended to spread the various battles throughout the day to ensure maximum player participation.
+* During the first 25 minutes, each player is limited to a single attack using a single soldier without hero. The boss's health remains at 100%, preventing it from dying too quickly and ensuring that the maximum number of players can secure the reward at the end.
+* During the final 5 minutes, everyone sends their maximum troop count accompanied by heroes to defeat the boss.
+
+### Français
+Le but est de permettre à un maximun de joueurs de l'alliance de recupérer la récompense:
+* Il est conseillé de répartir les différents combats tout au long de la journée afin d'un maximun de joueurs puissent y participer.
+* Durant les 25 premières minutes, on autorise une seule attaque avec un seul soldat sans héros par joueur. Le pourcentage du boss reste à 100%, ainsi il ne meurt pas trop vite et un maximun de joueurs pourront obtenir la récompense à la fin.
+* Durant les 5 dernières minutes, tout le monde envoi un maximum de troupes avec des héros pour tuer le boss.
+
+
