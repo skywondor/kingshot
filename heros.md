@@ -48,6 +48,23 @@
 | <img src="images/gordon.png" alt="Gordon" height="80"/> | <img src="images/howard.png" alt="Howard" height="80"/> | <img src="images/quinn.png" alt="Quinn" height="80"/> | <img src="images/yeonwoo.png" alt="Yeonwoo" height="80"/>
 | Gordon | Howard | Quinn | Yeonwoo |
 
+### Easy to get / Facile à obtenir
+
+#### English
+These are the heroes you can obtain through the roulette wheel. These are the heroes you can most easily upgrade to 5 stars.
+
+#### Français
+Ce sont les héros qu'on peut obtenir grâce à la roulette. Ce sont les héros qu'on peut le plus facilement amener à 5 étoiles.
+
+#### List / Liste
+* Saul
+* Zoe
+* Petra
+* Rosa
+* Long Fei
+* Sophia
+* Wee & Woo
+
 ### Rating / Classement
 
 #### English
