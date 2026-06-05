@@ -26,6 +26,21 @@
 |------|------------|------|
 | Alcar | Margot | Rosa |
 
+#### Generation 5 / Génération 5
+| <img src="images/viviane.png" alt="Viviane" height="80"/> | <img src="images/longfei.png" alt="Long Fei" height="80"/> | <img src="images/thrud.png" alt="Thrud" height="80"/> |
+|------|------------|------|
+| Viviane | Long Fei | Thrud |
+
+#### Generation 6 / Génération 6
+| <img src="images/yang.png" alt="Yang" height="80"/> | <img src="images/triton.png" alt="Triton" height="80"/> | <img src="images/sophia.png" alt="Sophia" height="80"/> |
+|------|------------|------|
+| Yang | Triton | Sophia |
+
+#### Generation 7 / Génération 7
+| <img src="images/wee-woo.png" alt="Wee & Woo" height="80"/> | <img src="images/charles.png" alt="Charles" height="80"/> | <img src="images/ava.png" alt="Ava" height="80"/> |
+|------|------------|------|
+| Wee & Woo | Charles | Ava |
+
 #### Epics / Epiques
 | <img src="images/amane.png" alt="amane" height="80"/> | <img src="images/chenko.png" alt="Chenko" height="80"/> | <img src="images/diana.png" alt="Diana" height="80"/> | <img src="images/fahd.png" alt="Fahd" height="80"/> | 
 |------|------------|------|------|
