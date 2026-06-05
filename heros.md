@@ -65,6 +65,69 @@ Ce sont les héros qu'on peut obtenir grâce à la roulette. Ce sont les héros 
 * Sophia
 * Wee & Woo
 
+### Compare / Comparaison
+Note: 
+* Without skill / Sans les compétences
+* C: Cavalary / cavalier
+* I: Infantry / infanterie
+* A: Archer
+
+| Heroes | Gen | Type | Attack | Defense | Health/Santé | Bonus attack (%) | Bonus defense (%) |
+|------|------------|------|------|------|------|------|------|
+| Jabel | 1 | C | 2220 | 2220 | 22200 | 200,16 | 200,16 |
+| Amadeus | 1 | I | 2128 | 2200 | 41624 | 260,20 | 260,20 |
+| Helga | 1 | I | 1873 | 2220 | 36630 | 200,16 | 200,16 |
+| Saul | 1 | A | 2697 | 2220 | 16650 | 200,16 | 200,16 |
+| Hilde | 2 | C | 2664 | 2220 | 26640 | 240,19 | 240,19 |
+| Zoe | 2 | I | 2043 | 2664 | 39960 | 240,19 | 240,19 |
+| Marlin | 2 | A | 3235 | 2220 | 19980 | 240,19 | 240,19 |
+| Jeager | 3 | A | 4045 | 3330 | 24974 | 290,23 | 290,23 |
+| Eric | 3 | I | 2554 | 3330 | 49950 | 290,23 | 290,23 |
+| Petra | 3 | C | 3330 | 3330 | 33300 | 290,23 | 290,23 |
+| Rosa | 4 | A | 4989 | 4106 | 30802 | 370,29 | 370,29 |
+| Alcar | 4 | I | 3150 | 4106 | 61604 | 370,29 | 370,29 |
+| Margot | 4 | C | 4106 | 4106 | 41070 | 370,29 | 370,29 |
+| Viviane | 5 | A | 5987 | 4928 | 36962 | 444,35 | 444,35 |
+| Long Fei | 5 | I | 3780 | 4928 | 73926 | 444,35 | 444,35 |
+| Thrud | 5 | C | 4928 | 4928 | 49284 | 444,35 | 444,35 |
+| Yang | 6 | A | 7200 | 5926 | 44454 | 540,43 | 540,43 |
+| triton | 6 | I | 4546 | 5926 | 99910 | 540,43 | 540,43 |
+| Sophia | 6 | C | 5926 | 5926 | 59274 | 540,43 | 540,43 |
+| Wee & Woo | 7 | A | 8656 | 7126 | 53446 | 650,52 | 650,52 |
+| Charles | 7 | I | 5466 | 7126 | 106892 | 650,52 | 650,52 |
+| Ava | 7 | C | 7126 | 7126 | 71262 | 650,52 | 650,52 |
+
+#### Top 6 attack / attaque
+| Heroes | Gen | Type | Attack | Bonus attack (%) |
+|------|------------|------|------|------|
+| Wee & Woo | 7 | A | 8656 | 650,52 |
+| Yang | 6 | A | 7200 | 540,43 |
+| Ava | 7 | C | 7126 | 650,52 |
+| Viviane | 5 | A | 5987 | 444,35 |
+| Sophia | 6 | C | 5926 | 540,43 |
+| Charles | 7 | I | 5466 | 650,52 |
+
+#### Top 6 defense / défense
+| Heroes | Gen | Type | Defense | Bonus defense (%) |
+|------|------------|------|------|------|
+| Charles | 7 | I | 7126 | 650,52 |
+| Ava | 7 | C | 7126 | 650,52 |
+| Wee & Woo | 7 | A | 7126 | 650,52 |
+| triton | 6 | I | 5926 | 540,43 |
+| Sophia | 6 | C | 5926 | 540,43 |
+| Yang | 6 | A | 5926 | 540,43 |
+
+#### Top 6 health / santé
+| Heroes | Gen | Type | Health/Santé |
+|------|------------|------|------|
+| Charles | 7 | I | 106892 |
+| triton | 6 | I | 99910 |
+| Long Fei | 5 | I | 73926 |
+| Ava | 7 | C | 71262 |
+| Alcar | 4 | I | 61604 |
+| Sophia | 6 | C | 59274 |
+
+
 ### Rating / Classement
 
 #### English
