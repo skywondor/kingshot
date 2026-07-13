@@ -60,7 +60,7 @@ La première conversion de chaque jour bénéficie d'une réduction de 50 % sur 
 
 Ce bonus quotidien est la raison pour laquelle beaucoup de joueurs ne font qu'une seule conversion par jour une fois les 20 premières conversions de la semaine effectuées. Cela maximise le rendement en True Gold dépensé. 
 
-## Etude de cas
+## Case study / Etude de cas
 
 ### English
 If you wish to upgrade all your TG5 buildings to TG6, you will need 199 TTG.
