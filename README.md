@@ -5,6 +5,7 @@
 * [Choice of heroes / Choix des héros](heros.md)
 * [Technological gift / Don Technologique](tech.md)
 * [Treat the troops / soigner les troupes](soigne.md)
+* [Understand TTG / Comprendre TTG](ttg.md)
 * [VIP](vip.md)
 
 ## Building / Batiments
